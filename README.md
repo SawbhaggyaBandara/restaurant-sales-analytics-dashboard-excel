@@ -136,7 +136,3 @@ The dashboard provides key business metrics including:
 - Built a fully interactive dashboard for sales and customer analytics.
 - Enabled dynamic filtering and drill-down analysis.
 - Improved decision-making through KPI-driven reporting.
-
-Undergraduate | Data Science
-
-University of Moratuwa
